@@ -21,7 +21,7 @@
 
     <section class="mt-4">
         <h2>Descripción de la Aplicación:</h2>
-        <p>Permite a los usuarios gestionar sus pendientes de manera eficiente a través de una interfaz dinámica, donde cada tarea actúa como una unidad de información independiente que puede ser creada, consultada, modificada o eliminada en tiempo real. </p>
+        <p>Permite a los usuarios gestionar sus tareas pendientes de manera eficiente a través de una interfaz dinámica, donde cada tarea actúa como una unidad de información independiente que puede ser creada, consultada, modificada o eliminada en tiempo real. </p>
     </section>
 
     <section class="mt-4">
