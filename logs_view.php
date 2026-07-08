@@ -40,7 +40,7 @@ $stmt = $db->query($query);
                     <tbody>
                         <?php while($row = $stmt->fetch(PDO::FETCH_ASSOC)): ?>
                         <tr>
-                            <td><?php echo $row['fecha_hora']; ?></td>
+                            <td><?php echo date('d/m/Y, H:i:s', strtotime($row['fecha_hora'])); ?></td>
                             <td><?php echo $row['username'] ?? 'Sistema'; ?></td>
                             <td><span class="badge bg-info"><?php echo $row['evento']; ?></span></td>
                             <td><?php echo htmlspecialchars($row['detalle']); ?></td>
