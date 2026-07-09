@@ -4,6 +4,10 @@ date_default_timezone_set('America/Santiago');
 
 
 function registrarLog($db, $evento, $detalle = "") {
+
+    $fecha_actual = date('Y-m-d H:i:s');
+    
+
     global $db; 
     
     if (session_status() === PHP_SESSION_NONE) {

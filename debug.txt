@@ -105,3 +105,21 @@
 [2026-07-09 00:51:13] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
 [2026-07-09 00:51:28] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
 [2026-07-09 00:51:31] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:30] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:35] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:40] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:42] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:43] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:57] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:53:59] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:58:20] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:01:39] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:03:28] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:03:31] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:03:34] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:03:50] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:04:03] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:04:19] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:04:33] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:04:35] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 01:11:57] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
