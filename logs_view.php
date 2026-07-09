@@ -1,5 +1,8 @@
 <?php
 // logs_view.php
+date_default_timezone_set('America/Santiago');
+
+
 require_once 'auth.php';   // Protege la página de forma segura con tu archivo original
 require_once 'db.php';     // Carga la base de datos de forma global y segura
 require_once 'logger.php'; // Importamos el sistema de logs

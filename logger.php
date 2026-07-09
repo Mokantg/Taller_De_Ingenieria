@@ -1,5 +1,7 @@
 <?php
 // logger.php
+date_default_timezone_set('America/Santiago');
+
 
 function registrarLog($db, $evento, $detalle = "") {
     global $db; 

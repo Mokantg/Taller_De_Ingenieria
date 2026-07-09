@@ -1,3 +1,107 @@
 [2026-07-09 02:17:41] Usuario ID: Invitado | Evento: crear usuario | Detalle: Usuario registrado y verificado automáticamente: javier | IP Real Detectada: 190.211.249.220
 [2026-07-09 02:17:49] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email quezadajavier566@gmail.com ha iniciado sesión. | IP Real Detectada: 190.211.249.220
 [2026-07-09 02:18:23] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 190.211.249.220
+[2026-07-09 03:08:49] Usuario ID: Invitado | Evento: crear usuario | Detalle: Usuario registrado y verificado automáticamente: Monse | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:04] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:11] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:17] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:36] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Terminar Latex del proyecto | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:36] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:39] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:41] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:56] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Subir tareas a Ulagos Virtual | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:09:56] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:00] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:04] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 2 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:04] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:06] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:08] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 1 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:08] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:10] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:12] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: eliminar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:17] Usuario ID: 1 | Evento: eliminar registro | Detalle: Tarea eliminada con ID: 2 | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:17] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:18] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:19] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 1 cambiada a: pendiente | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:19] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:10:20] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:21:57] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:22:13] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:25:07] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:08] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:16] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:20] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:31] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Subir a Ulagos Virtual la tarea | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:31] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:34] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:50] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: comprar pan | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:50] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:51] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:58] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Terminar Planarcadia | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:58] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:26:59] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:06] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Sacar a Phainon E2 | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:06] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:10] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:15] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:17] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 6 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:17] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:19] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:20] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 6 cambiada a: pendiente | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:21] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:22] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:25] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 4 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:26] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:27] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:30] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 5 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:30] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:32] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: eliminar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:42] Usuario ID: 1 | Evento: eliminar registro | Detalle: Tarea eliminada con ID: 4 | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:42] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:27:44] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:28:54] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:39] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:48] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:51] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: eliminar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:54] Usuario ID: 1 | Evento: eliminar registro | Detalle: Tarea eliminada con ID: 6 | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:54] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:55] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: eliminar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:58] Usuario ID: 1 | Evento: eliminar registro | Detalle: Tarea eliminada con ID: 5 | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:31:58] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:00] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:01] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:21] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Grabar Elevator Pitch | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:21] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:23] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:37] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Estudiar Algebra | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:37] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:39] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:40] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:54] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Presentar Proyecto | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:55] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:32:57] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:23] Usuario ID: 1 | Evento: crear registro | Detalle: Tarea creada: Entregar Informe Arquitecturas | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:24] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:26] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:32] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:34] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:37] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 8 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:37] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:39] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:43] Usuario ID: 1 | Evento: modificar registro | Detalle: Tarea ID 3 cambiada a: completada | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:33:43] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 03:55:51] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:07:58] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:08:01] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: consultar | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:08:05] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: crear | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:15:10] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: modificar | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:25:43] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó la interfaz en modo: eliminar | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:42:25] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:42:56] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 04:43:03] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:50:35] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:50:40] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:51:10] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:51:13] Usuario ID: 1 | Evento: cierre de sesion | Detalle: El usuario cerró su sesión actual. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:51:28] Usuario ID: 1 | Evento: iniciar sesion | Detalle: El usuario con email palmacatinmonserrat@gmail.com ha iniciado sesión. | IP Real Detectada: 138.84.35.77
+[2026-07-09 00:51:31] Usuario ID: 1 | Evento: consultar registro | Detalle: El usuario visualizó el registro de auditoría del sistema. | IP Real Detectada: 138.84.35.77

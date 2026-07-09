@@ -1,4 +1,6 @@
 <?php
+date_default_timezone_set('America/Santiago');
+
 // logout.php
 session_start();
 $db = require_once 'db.php';
